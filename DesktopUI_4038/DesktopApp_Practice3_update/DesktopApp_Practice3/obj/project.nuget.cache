@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kx9l1Jypte74MTJkM7nxgrZ+Tdo5OK4Xk43oWdrFNJfeD0PT5/u1EZr15M73ZdF3pz6oWX5I2URMjf7n4MYLA==",
+  "success": true,
+  "projectFilePath": "D:\\gui project\\Individual\\DesktopUI_4038\\DesktopApp_Practice3_update\\DesktopApp_Practice3\\DesktopApp_Practice3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RPT\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,135 @@
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.exe
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.deps.json
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.runtimeconfig.json
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.AssemblyReference.cache
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.g.cs
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.cache
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.lref
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.baml
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.baml
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.g.resources
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfoInputs.cache
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfo.cs
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CoreCompileInputs.cache
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CopyComplete
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\refint\DesktopApp_Practice3.dll
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.genruntimeconfig.cache
+D:\gui project\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\ref\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.exe
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.deps.json
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.runtimeconfig.json
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.AssemblyReference.cache
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.g.cs
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.cache
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.lref
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.baml
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.baml
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.g.resources
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfoInputs.cache
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfo.cs
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CoreCompileInputs.cache
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CopyComplete
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\refint\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.genruntimeconfig.cache
+D:\gui project\Individual\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\ref\DesktopApp_Practice3.dll
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.exe
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.deps.json
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.runtimeconfig.json
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.dll
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.AssemblyReference.cache
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.g.cs
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.cache
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.lref
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.baml
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.baml
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.g.resources
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfoInputs.cache
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfo.cs
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CoreCompileInputs.cache
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CopyComplete
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.dll
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\refint\DesktopApp_Practice3.dll
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.genruntimeconfig.cache
+G:\Lec Recordings\3rd\MAD\DesktopApp_Practice3\DesktopApp_Practice3\obj\Debug\net6.0-windows\ref\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.exe
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.deps.json
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.runtimeconfig.json
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.AssemblyReference.cache
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.cache
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.lref
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.baml
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.baml
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.g.resources
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfoInputs.cache
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfo.cs
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CoreCompileInputs.cache
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CopyComplete
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\refint\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.genruntimeconfig.cache
+D:\gui project\Individual\DesktopApp_Practice3_update\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\ref\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.exe
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.deps.json
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.runtimeconfig.json
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.AssemblyReference.cache
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.cache
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3_MarkupCompile.lref
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\App.baml
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\AddStudentWindow.baml
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\MainWindow.baml
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.g.resources
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfoInputs.cache
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.AssemblyInfo.cs
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CoreCompileInputs.cache
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.csproj.CopyComplete
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\refint\DesktopApp_Practice3.dll
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.pdb
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\DesktopApp_Practice3.genruntimeconfig.cache
+D:\gui project\Individual\DesktopApp_Practice3_update (2)\DesktopApp_Practice3_update\DesktopApp_Practice3\obj\Debug\net6.0-windows\ref\DesktopApp_Practice3.dll
